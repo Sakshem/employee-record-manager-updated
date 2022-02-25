@@ -1,8 +1,8 @@
 # Employee-Record-Manager-Updated
-* A Web Spring Boot Application that performs all the CRUD operations on employee records with mySQL integration
+* A Web Spring Boot Application that performs all the CRUD operations on employee records with MySQL integration
 * Added Spring Security with JDBC Authentication
 * Used Thymeleaf for view template or dynamic content of the web page
-* Used HTML, CSS and Bootstrap for designing static content of the web page
+* Used HTML, CSS, and Bootstrap for designing static content of the web page
 
 Here's a glimpse of how the application looks like.
 
